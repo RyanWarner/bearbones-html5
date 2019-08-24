@@ -1,1 +1,1 @@
-console.log( 'I am javascript.' );
+console.log('Hello from JavaScript.')
